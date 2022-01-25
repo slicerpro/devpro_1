@@ -1,2 +1,2 @@
 # devpro_1
-dev pro tutorial project.
+This project appears in practice dev projects provided bt codementor.io.
